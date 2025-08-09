@@ -3,7 +3,10 @@
 =======
 > :warning: **Start Announcement**
 >
-# WAIUA has left active development. It won't stop working immediately, as WAIUA is completely standalone and communicates directly with Riot Servers. However, like it has happened before, changes to Riot's architecture will eventually break WAIUA's functionality. Full story on my Discord server
+## Credits
+Original project: WAIUA(https://github.com/Soneliem/WAIUA) by Soneliem — Licensed under the MIT License.  
+This version includes updates to work with modern dependencies and bug fixes.
+
 >
 > :warning: **End Announcement**
 
