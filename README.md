@@ -123,14 +123,6 @@ Another reason to making this was that I wanted some experience with .NET and GU
 
 I welcome any sort of contribution. Please remember that translations are managed externally as mentioned below.
 
-## Sponsors
-
-This project is sponsored by:
-
-<!-- sponsors --><!-- sponsors -->  
-
-Thank you for your support! Any donation of $5 and over will get you into the app's main page. Sponnsors of $10 or more are automatically added above.
-
 ## Translations
 
 WAIUA Supports full localization and instructions to help with translations can be found in [Localization](https://github.com/Soneliem/WAIUA/blob/master/Localization.md)
