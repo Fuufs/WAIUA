@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # WAIUA
 =======
 > :warning: **Start Announcement**
