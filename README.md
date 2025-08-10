@@ -144,4 +144,3 @@ WAIUA Supports full localization and instructions to help with translations can 
 
 THIS PROJECT IS NOT ASSOCIATED OR ENDORSED BY RIOT GAMES. Riot Games, and all associated properties are trademarks or registered trademarks of Riot Games, Inc.
 By using this application, you agree that you, the individual, are knowingly accessing all information required to be displayed.
->>>>>>> adbb28c (Source files)
