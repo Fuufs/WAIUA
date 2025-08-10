@@ -81,7 +81,7 @@ To get the app up and running follow these simple steps.
 
 ### Installation
 
-1. Download [the latest installer](https://github.com/Soneliem/WAIUA/releases/latest/download/WAIUA.exe)
+1. Download [the latest installer]
 2. Run the .exe (If a blue box saying "Windows protected your PC" shows up, click `More Info` and then `Run Anyway`)
 3. Follow the steps to install WAIUA
 
@@ -90,10 +90,6 @@ To get the app up and running follow these simple steps.
 1. Open the app
 2. WAIUA will automatically check for new matches or wait for a match like a good boi
 3. Win games (unless you find out you're playing against a smurf. In that case RIP your RR)
-
-## Roadmap and Known Bugs
-
-Please check the [issues tab](https://github.com/Soneliem/WAIUA/issues) before making a new issue. My [Discord Server](https://discord.gg/X7CYCeZSRK) has a list of known bugs and upcoming features.
 
 ## Built With
 
