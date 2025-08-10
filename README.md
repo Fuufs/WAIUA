@@ -137,12 +137,9 @@ WAIUA Supports full localization and instructions to help with translations can 
 
 ## Contact
 
-**Official Website:** [waiua.sonel.dev](https://waiua.sonel.dev)  
-**Discord:** Soneliem#4194  
-**Email:** [waiua@sonel.dev](mailto:waiua@sonel.dev)  
-**Project Link:** [https://github.com/Soneliem/WAIUA](https://github.com/Soneliem/WAIUA)  
-**Discord Server:**  
-[![Discord Banner 2](https://discordapp.com/api/guilds/881790284613185546/widget.png?style=banner2)](https://discord.gg/X7CYCeZSRK)  
+**Discord:** fuufs  
+**Email:** [uffugamer@gmail.com](mailto:uffugamer@gmail.com)  
+**Project Link:** [https://github.com/Fuufs/WAIUA](https://github.com/Fuufs/WAIUA)
 
 ## Acknowledgements
 
