@@ -21,16 +21,6 @@ This version includes updates to work with modern dependencies and bug fixes.
 
   <p align="center">
     A Windows application to view player ranks and other info in a live Valorant Match</p>
-    <p align="center">
-    <a href="https://discord.gg/X7CYCeZSRK">
-      <img alt="Discord" src="https://img.shields.io/discord/881790284613185546?color=blue&label=discord">
-    </a>
-    <img alt="GitHub" src="https://img.shields.io/github/license/Soneliem/WAIUA?color=blue">
-    <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/Soneliem/WAIUA/total?color=blue">
-    <a href="https://github.com/Soneliem/WAIUA/releases/latest/download/WAIUA.exe">
-      <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Soneliem/WAIUA">
-    </a>
-    </p>
   <br />
 
 ![Screenshot](Screenshots/main.png)
