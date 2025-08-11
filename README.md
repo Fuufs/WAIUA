@@ -41,10 +41,8 @@ This version includes updates to work with modern dependencies and bug fixes.
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap-and-known-bugs">Roadmap And Known Bugs</a></li>
     <li><a href="#built-with">Built With</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#Sponsors">Sponsors</a></li>
     <li><a href="#Translations">Translations</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
